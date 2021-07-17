@@ -13,14 +13,13 @@
 - 🔭 I’m currently working on ...
     - 🐧 Linux
     - 🐳 Docker
-    - :jenkins: Jenkins
-    - :jenkins: NodeJs
-    - :react: React
-    - :typescript: TypeScript
-    - :database: Knex 
-    - :database: Sequelize
-
-
+      :jenkins: Jenkins
+      :jenkins: NodeJs
+      :react: React
+      :typescript: TypeScript
+      :database: Knex 
+      :database: Sequelize
+      
 <!--
 **RaphaelGLeal/RaphaelGLeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
