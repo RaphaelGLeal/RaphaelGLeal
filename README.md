@@ -11,8 +11,8 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on ...
-    - Linux
-    - Docker
+    - 🐧 Linux
+    - 🐳 Docker
     - Jenkins
     - NodeJs
     - React
