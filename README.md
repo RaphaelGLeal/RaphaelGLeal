@@ -13,12 +13,12 @@
 - 🔭 I’m currently working on ...
     - 🐧 Linux
     - 🐳 Docker
-    - Jenkins
-    - NodeJs
-    - React
-    - TypeScript
-    - Knex 
-    - Sequelize
+    - :jenkins: Jenkins
+    - :jenkins: NodeJs
+    - :react: React
+    - :typescript: TypeScript
+    - :database: Knex 
+    - :database: Sequelize
 
 
 <!--
